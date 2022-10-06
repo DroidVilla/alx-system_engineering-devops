@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | grep -i "SCHOOL"
+school.mgc ls -l | grep -i "SCHOOL"
