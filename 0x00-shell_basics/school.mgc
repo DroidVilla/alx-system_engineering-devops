@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -r "SCHOOL" /alx-system_engineering-devops/0x00-shell_basics/
+grep -r "school" /alx-system_engineering-devops/0x00-shell_basics/
