@@ -1,2 +1,2 @@
 #!/bin/bash
-file find . -iname '*school*'
+ls -l | grep -i "SCHOOL"
