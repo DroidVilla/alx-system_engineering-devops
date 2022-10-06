@@ -1,2 +1,3 @@
 #!/bin/bash
-grep -Rw ~/alx-system_engineering-devops/0x00-shell_basics/ -e 'SCHOOL'
+0 string SCHOOL School data
+!:mime School
