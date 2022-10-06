@@ -1,2 +1,2 @@
 #!/bin/bash
-school.mgc ls -l | grep -i "SCHOOL"
+grep -r "SCHOOL" /alx-system_engineering-devops/0x00-shell_basics/
